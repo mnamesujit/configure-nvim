@@ -1,1 +1,1 @@
-# configure-nvim
+# Configure Nvim for Web Development
