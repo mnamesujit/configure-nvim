@@ -10,4 +10,4 @@ mkdir nvim
 ``` bash
 cd nvim
 ```
-## step 3: Create file & directory structure just like shown below.
+## Step 3: Create file & directory structure just like shown below.
