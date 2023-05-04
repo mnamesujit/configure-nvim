@@ -11,3 +11,5 @@ mkdir nvim
 cd nvim
 ```
 ## Step 3: Create file & directory structure just like shown below.
+
+## Step 4:
