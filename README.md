@@ -1,5 +1,8 @@
 # Configure Nvim for Web Development
 Here You Can follow steps to configure nvim for web development like an IDE using Lua
+
+## It is Full customized IDE for JavaScript Development
+
 ## Step 1: Go to /home/.config or run below commands
 ``` bash
 cd ~/.config/
