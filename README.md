@@ -18,3 +18,4 @@ cd nvim
 ## Step 4:
 ## Step 6
 ## Step 7
+## Step 8
