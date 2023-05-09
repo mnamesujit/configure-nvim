@@ -1,5 +1,6 @@
 # Configure Nvim for Web Development
 Here You Can follow steps to configure nvim for web development like an IDE using Lua
+I configured neovim with lua
 
 It is Fully customized IDE for JavaScript Development
 
