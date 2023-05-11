@@ -10,7 +10,7 @@ It is Fully customized IDE for JavaScript Development
  - neosolarized-theme
  - dev-icons
  - colorizer
- - 
+ - prettier
 
 
 ## Step 1: Go to /home/.config or run below commands
