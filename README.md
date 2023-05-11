@@ -6,6 +6,8 @@ I configured neovim with lua and Packer(package manager) for managing package in
 It is Fully customized IDE for JavaScript Development
 
 ## Integrations-
+ - treesitter: 
+ - neosolarized-theme
 
 
 ## Step 1: Go to /home/.config or run below commands
